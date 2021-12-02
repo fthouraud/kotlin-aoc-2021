@@ -1,6 +1,6 @@
 package me.fth.aoc.day2
 
-object AimedLocation: UpdatableLocation {
+object AimedLocation : UpdatableLocation {
     private var horizontalPosition = 0
     private var depth = 0
     private var aim = 0

@@ -1,5 +1,7 @@
 package me.fth.aoc.day5
 
+import me.fth.aoc.Line
+import me.fth.aoc.Point
 import kotlin.test.Test
 import kotlin.test.assertContains
 import kotlin.test.assertEquals

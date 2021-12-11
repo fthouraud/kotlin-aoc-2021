@@ -1,12 +1,11 @@
 package me.fth.aoc.day5
 
+import me.fth.aoc.Line
+import me.fth.aoc.Point
 import me.fth.aoc.readInputLines
 import kotlin.math.absoluteValue
 import kotlin.math.max
 import kotlin.math.min
-
-data class Point(val x: Int, val y: Int)
-data class Line(val a: Point, val b: Point)
 
 const val diagramSize = 999
 
